@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\bin\Debug\BonusTwo.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\bin\Debug\BonusTwo.exe
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\bin\Debug\BonusTwo.pdb
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\obj\Debug\BonusTwo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\obj\Debug\BonusTwo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\obj\Debug\BonusTwo.exe
+C:\Users\Administrator\source\repos\GrandCircus\BonusTwo\BonusTwo\obj\Debug\BonusTwo.pdb
